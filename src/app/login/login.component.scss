@@ -1,0 +1,48 @@
+.login-wrapper {
+  margin: 20rem auto;
+  width: 20rem;
+}
+
+input {
+  margin-bottom: 2rem;
+}
+
+body {
+  height: 100vh;
+  text-align: center;
+  background-color: aqua;
+}
+
+.login {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url("https://i.postimg.cc/hvvjHTWn/pngtree-neon-landscape-illustration-fawn-png-image-29392.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.container-fluid {
+  background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+}
+.login-heading {
+  font-weight: 300;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+
+.form-control {
+  border-radius: 50px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #000000;
+  border-color: #3b3f43;
+  border-radius: 50px;
+}
